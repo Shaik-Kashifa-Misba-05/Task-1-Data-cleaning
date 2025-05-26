@@ -22,8 +22,3 @@
 
 6. **Checked Number Formats**
    - Ensured Sales, Profit, and Cost were in number format
-
-
-### 📂 File Included
-- `sports_sales_cleaned data.xlsx` – Cleaned version of the dataset
-
